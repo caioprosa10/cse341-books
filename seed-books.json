@@ -1,0 +1,20 @@
+[
+  {
+    "id": "b1",
+    "author": "Chinua Achebe",
+    "title": "Things Fall Apart",
+    "publicationDate": "1958-06-17"
+  },
+  {
+    "id": "b2",
+    "author": "Ursula K. Le Guin",
+    "title": "A Wizard of Earthsea",
+    "publicationDate": "1968-11-01"
+  },
+  {
+    "id": "b3",
+    "author": "Clarice Lispector",
+    "title": "The Hour of the Star",
+    "publicationDate": "1977-10-01"
+  }
+]
