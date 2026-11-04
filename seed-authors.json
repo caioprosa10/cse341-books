@@ -1,0 +1,17 @@
+[
+  {
+    "id": "a1",
+    "name": "Chinua Achebe",
+    "birthYear": 1930
+  },
+  {
+    "id": "a2",
+    "name": "Ursula K. Le Guin",
+    "birthYear": 1929
+  },
+  {
+    "id": "a3",
+    "name": "Clarice Lispector",
+    "birthYear": 1920
+  }
+]
